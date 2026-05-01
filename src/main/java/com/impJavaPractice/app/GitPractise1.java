@@ -17,11 +17,15 @@ public class GitPractise1 {
 		System.out.println("Print d"+ d);
 		System.out.println("Addition : " + c);
 		System.out.println("This is to test git merge conflicts");
-<<<<<<< HEAD
 		System.out.println("This is new line1");
-=======
 		System.out.println(" As per your change request, I have updated the code.");
->>>>>>> bba29c8ae2d4aac078477ef5a21cb3376ada6487
+	}
+	void sub() {
+		int a=2;
+		int b=3;
+		int c= b-a;
+		System.out.println(c);
+		
 	}
 
 }
