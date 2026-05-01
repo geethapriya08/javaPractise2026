@@ -7,5 +7,14 @@ public class GitPractise1 {
 		System.out.println("New change");		
 		System.out.println(" This line belongs to Anil");
 	}
+	
+	void add() {
+		int a=1;
+		int b=3;
+		
+		int c=a+b;
+		
+		System.out.println("Addition : "+c);
+	}
 
 }
