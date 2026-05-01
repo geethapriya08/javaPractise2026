@@ -17,6 +17,7 @@ public class GitPractise1 {
 		System.out.println("Print d"+ d);
 		System.out.println("Addition : " + c);
 		System.out.println("This is to test git merge conflicts");
+		System.out.println("This is new line");
 	}
 
 }
