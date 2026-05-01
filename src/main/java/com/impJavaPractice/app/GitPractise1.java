@@ -13,8 +13,10 @@ public class GitPractise1 {
 		int b=3;
 		
 		int c=a+b;
+		int d=c;
 		
 		System.out.println("Addition : "+c);
+		System.out.println("Print d"+ d);
 	}
 
 }
